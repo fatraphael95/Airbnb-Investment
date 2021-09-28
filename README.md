@@ -14,4 +14,4 @@ I have been provided with scraped data captured by a web program that pulled lis
 
 | Airbnb Investment Presentation |
 |:---:|
-[![Airbnb Investment Presentation](https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5/blob/e8dc5e6e04845429e11a21b32691963814d9c6f3/Research_Project_Poster_Presentation%20-%20Final.png)](https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5/blob/f186cb5fea976d07407d64d218a5bc9ad685288a/Research_Project_Poster_Presentation%20-%20Final.png)
+[![Airbnb Investment Presentation](https://github.com/fatraphael95/Airbnb-Investment/blob/672477c668e7cc31c4258d485d717a2eca25b7b2/IOD%20-%20Mini%20Project%201.pdf)](https://github.com/fatraphael95/Airbnb-Investment/blob/672477c668e7cc31c4258d485d717a2eca25b7b2/IOD%20-%20Mini%20Project%201.pdf)
