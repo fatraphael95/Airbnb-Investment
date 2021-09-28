@@ -1,6 +1,6 @@
 # Airbnb Investment
 
-The purpose of this mini project was to apply exploratory data analysis to derive business insights. 
+The purpose of this mini project was to apply exploratory data analysis (EDA) to derive business insights. 
 
 ### Business Context
 I am working for a client who wishes to invest in an AirBnB hotel in Amsterdam. Before my client decides to invest, they would like clean data about AirBnB performance in Amsterdam’s markets that ultimately supports a clear recommendation for an investment in a specific market.
