@@ -11,3 +11,7 @@ I have been provided with scraped data captured by a web program that pulled lis
 ### Problem Statement
 1. Should our investor invest in an AirBnB hotel in Amsterdam?
 2. And, if so, which neighborhood should they invest in?
+
+| Airbnb Investment Presentation |
+|:---:|
+[![Airbnb Investment Presentation](https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5/blob/e8dc5e6e04845429e11a21b32691963814d9c6f3/Research_Project_Poster_Presentation%20-%20Final.png)](https://github.com/fatraphael95/Chemical-Engineering-Research-Project-5/blob/f186cb5fea976d07407d64d218a5bc9ad685288a/Research_Project_Poster_Presentation%20-%20Final.png)
